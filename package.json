@@ -1,0 +1,23 @@
+{
+  "name": "sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayhedau/sender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmayhedau/sender/issues"
+  },
+  "homepage": "https://github.com/tanmayhedau/sender#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
