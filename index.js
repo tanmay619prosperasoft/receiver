@@ -5,9 +5,10 @@ const port = 3000
 app.use(express.json());
 
 app.use('/',(req,res)=>{
-  res.send("Hello")
+  res.send("this is ram ")
 })
 
 app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`)
   console.log(`Example app listening on port ${port}`)
 })
