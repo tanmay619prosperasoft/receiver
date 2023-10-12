@@ -6,7 +6,7 @@ app.use(express.json());
 
 app.use('/',(req,res)=>{
   res.send("Hello")
-console.log("ram-5")
+console.log("ram-5 222")
 })
 
 app.listen(port, () => {
